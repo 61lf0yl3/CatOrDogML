@@ -1,5 +1,7 @@
 # CatOrDogML
 on Google's Colab, train a neural network on differentiating between a cat pic and dog pic, then use the trained network to classify a new (cat-like or dog-like) pic into a cat or dog. 
+
+
 <img width="326" alt="SupML" src="https://user-images.githubusercontent.com/54092529/146660298-0d58cdaa-108d-4ba4-9553-938f43f3fe5e.png">
 
 Below are the steps I have done.
